@@ -1,6 +1,6 @@
 ## Nebula-Modding
 
-Nebula is a group of (allegedly)enthusiastic java devs.
+Nebula is a group of (allegedly)enthusiastic devs.
 
 
 # Our Mods
@@ -15,14 +15,14 @@ Nebula Has quite a few mods coming in the future, These Include,
 
   # Our Philosophy
 
-  We believe that minecraft mods have to come from the heart
+  We believe that Minecraft mods have to come from the heart
 
   This is why we have no set release dates for any of our mods
 
 
   # Our Members
 
-- @DylThePill (Feel free to ping) - Project Manager, Developer
+- @DylThePill - Project Manager, Developer
 
 - @Lemon - Project Co-Manager, Artist
 
