@@ -19,24 +19,15 @@ Nebula Has quite a few mods coming in the future, These Include,
 
   This is why we have no set release dates for any of our mods
 
+  (This is completely sugarcoating that we do not care if you want it now, you'll have to wait)
+
 
   # Our Members
 
-- @DylThePill - Project Manager, Developer
-
-- @Lemon - Project Co-Manager, Artist
-
-- @Areth - Developer
-
-- @DeadbushCarrot - Occasional help, Texture Consultant
-
-- @ShaiN - Artist
-
-- @Abstractic - Concept Art, Ideas
+I donno man
 
 # Our Techstack
 
 - Neogradle
 - NeoForge
-- Geckolib
   
