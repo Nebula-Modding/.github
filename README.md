@@ -13,12 +13,13 @@ Nebula Has quite a few mods coming in the future, These Include:
 - Et Ultra
 - Oh and Orefication
 
+
   # Our Members
 
-- DylThePill
-- EmmaTheMartian
-- Areth (The Idiot)
-- TheObviousLemon
+- DylThePill - scared of registry
+- EmmaTheMartian - from mars
+- Areth (who is allegedly a human being)
+- TheObviousLemon - NOT A LIME
 
 # Supported Versions and Modloaders
 - 1.21.1 Neoforge only
