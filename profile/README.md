@@ -15,10 +15,10 @@ Nebula Has quite a few mods coming in the future, These Include:
 
   # Our Members
 
-- DylThePill
-- EmmaTheMartian
-- Areth (The Idiot)
-- TheObviousLemon
+- DylThePill (not a tablet)
+- EmmaTheMartian (alchemist)
+- Areth (The cool one)
+- TheObviousLemon(NOT A LIME)
 
 # Supported Versions and Modloaders
 - 1.21.1 Neoforge only
