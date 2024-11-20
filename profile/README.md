@@ -12,6 +12,7 @@ Nebula Has quite a few mods coming in the future, These Include:
 - And Last But Not Least
 - Et Ultra
 - Oh and Orefication
+- And Resurgence 
 
   # Our Members
 
