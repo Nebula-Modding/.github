@@ -18,7 +18,7 @@ Nebula Has quite a few mods coming in the future, These Include:
 
 - DylThePill (not a tablet)
 - EmmaTheMartian (alchemist)
-- Areth (The cool one)
+- Iris (The cool one)
 - TheObviousLemon(NOT A LIME)
 
 # Supported Versions and Modloaders
