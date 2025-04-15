@@ -16,6 +16,7 @@ Nebula has a few mods coming in the future, these include:
 - EmmaTheMartian (Alchemist)
 - Iris (The Cool One)
 - TheObviousLemon(~~NOT~~ A LIME)
+- DeadbushCarrot (The Autistic one - No literally)
 
 # Supported Versions and Modloaders
 - 1.21.1 Neoforge
