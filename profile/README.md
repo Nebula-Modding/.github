@@ -12,7 +12,7 @@ Nebula has a few mods coming in the future, these include:
 
   # Our Members
 
-- DylThePill (A Stupid Idiot)
+- AveryHazel (A Stupid Idiot)
 - EmmaTheMartian (Alchemist)
 - Iris (The Cool One)
 - TheObviousLemon(~~NOT~~ A LIME)
