@@ -1,22 +1,20 @@
-## Nebula-Modding
+# <div align="center">Nebula Modding</div>
+Nebula Modding is a group of (allegedly) enthusiastic devs who (allegedly) get enough sleep (allegedly).
 
-Nebula is a group of (allegedly) enthusiastic devs who (allegedly) get enough sleep. (allegedly)
+## Our Mods
+Nebula is working on a few mods, some of which are:
+- Cygnus
+- Cepheus
+- Planets+
 
-# Our Mods
+## Our Members
+- AveryHazel - Owner | Cepheus's Project Manager | Programmer | Composer
+- EmmaTheMartian - Cygnus's Project Manager | Programmer
+- DeadbushCarrot - Planets+'s Project Manager
+- nebulousIris - Programmar
+- Frogballoon - Artist | Modeler | Composer
+- TheObviousLemon - Artist | Modeler
 
-Nebula has a few mods coming in the future, these include:
-
-- Et Ultra
-- Orefication
-- Resurgence
-
-  # Our Members
-
-- AveryHazel (A Stupid Idiot)
-- EmmaTheMartian (Alchemist)
-- Iris (The Cool One)
-- TheObviousLemon(~~NOT~~ A LIME)
-- DeadbushCarrot (The Autistic one - No literally)
-
-# Supported Versions and Modloaders
-- 1.21.1 Neoforge
+## Supported Versions and Modloaders
+- Neoforge
+  - 1.21.1
